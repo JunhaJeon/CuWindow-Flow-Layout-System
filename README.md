@@ -1,4 +1,11 @@
 # CuWindow-Flow-Layout-System
+
+## Overview
+
+This application is a C++ GUI system that demonstrates object-oriented design principles and dynamic layout rendering using X11. It simulates a simplified graphical user interface composed of flow-arranged `TextArea` widgets within `FlowPanel` containers, all managed under a `CuWindow`. The application tests and visualizes object-oriented structures including entities, collections, boundaries, and controls.
+
+The project consists of 9 classes and 1 struct, each falling under defined object categories: Entity, Collection, Control, View, and Boundary.
+
 ```
 CuWindowProject/
 │
