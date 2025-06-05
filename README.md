@@ -36,3 +36,6 @@ CuWindowProject/
 ├── Makefile
 └── README.md
 ```
+
+# School Project
+This project was part of my coursework for "COMP2404 Winter 2025" at Carleton Universiry.
